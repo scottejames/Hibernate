@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MVCFramework"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/jta.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/hsqldb.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/hibernate-tools.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/asm.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/scottejames/Projects/JavaLibs/log4j-1.2.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
